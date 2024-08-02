@@ -3,11 +3,11 @@ Flooding is a significant issue that threatens urban areas, leading to extensive
 
 
 ## Instructions on How to Run the Website
-- Clone the repository
-- Create a virtual environment in the project directory: python -m venv venv
-- Activate the virtual environment: venv/Scripts/activate
-- Install the Requirements: pip install -r requirements.txt
-- And finally, run the application: flask run
+- Clone the repository: `git clone https://github.com/mehrinshamim/flood-prediction-project.git`
+- Create a virtual environment in the project directory: `python -m venv venv`
+- Activate the virtual environment: `venv/Scripts/activate`
+- Install the Requirements: `pip install -r requirements.txt`
+- And finally, run the application:`flask run`
 ----
 
 ## Screenshots
